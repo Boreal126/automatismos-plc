@@ -6,13 +6,13 @@ Proyectos de automatización desarrollados en FUP y KOP.
 
 Este repositorio contiene mi experiencia personal obtenida en automatización industrial y programación de PLC. Me temo que no podré aprovechar este conocimiento con un propósito profesional, y es una lástima haber aprendido para nada. De manera que lo comparto por si a alguien pudiera resultarle de utilidad.
 
-Se trata de un conjunto de 20 proyectos llevados a cabo con 3 tecnologías diferentes:
+Se trata de un conjunto de 16 proyectos llevados a cabo con 3 tecnologías diferentes:
 
 - Componentes de automatismos (CAD).
 - Un PLC LOGO (KOP).
 - Un autómata SIMATIC S7-200 (FUP).
 
-Por lo que suman 60 proyectos en total.
+Por lo que suman 48 proyectos en total.
 
 ## Funcionamiento
 
@@ -49,8 +49,6 @@ A continuación se expone brevemente el funcionamiento de cada proyecto:
 - **puerta_garaje:** puerta eléctrica que detecta a los coches con un sensor. Ej.: parking de un supermercado.
 
 - **puerta_temporizada:** puerta que se abre con un mando a distancia y que tiene un cierre temporizado. Ej.: garaje de una comunidad de vecinos.
-
-> Más proyectos en proceso...
 
 ## Edición/Simulación
 
